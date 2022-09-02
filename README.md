@@ -1,4 +1,4 @@
-Simple static context menu
+Simple static context menu, f12 console for ensuring listeners are working
 
 Used stack: 
 JS,HTML5,CSS,
