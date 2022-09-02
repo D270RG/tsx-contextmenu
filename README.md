@@ -1,8 +1,12 @@
+Simple static context menu
+
 Used stack: 
 JS,HTML5,CSS,
 React,
 Typescript,
 Bootstrap v5
+
+Preview: https://contextmenu.onrender.com/
 
 # Getting Started with Create React App
 
